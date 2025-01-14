@@ -1,4 +1,4 @@
-# ur-2d-platforme
+# ur-2d-platformer
 
 ## Self-Review
 
